@@ -10,3 +10,6 @@ Use /fp ingame to switch to first person.
 ## Copyright and license
 
 Copyright 2014 Jonathan Price, under [the BSD 2-Clause license](LICENSE).
+
+## Contact
+[http://www.jc-mp.com/forums/index.php/topic,4393.0.html](Just Cause 2: Multiplayer Forum Thread)
